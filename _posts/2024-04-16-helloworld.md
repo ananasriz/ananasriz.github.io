@@ -4,4 +4,4 @@ title: "Hello world"
 categories: misc
 ---
 
-Hello world.
+你好，世界。
